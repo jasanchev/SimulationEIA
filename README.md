@@ -11,7 +11,7 @@ Este repositorio contiene los siguientes notebooks:
 4. **Ajuste de Distribuciones** (`analytical.ipynb`)
 5. **Ejemplo de Aplición** (`benson.ipynb`)
 
-## Abrir en Google Colab
+## 🚀 Abrir en Google Colab
 Para abrir estos notebooks directamente en Colab, haz clic en los siguientes enlaces:
 - [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jasanchev/SimulationEIA/blob/main/trace-driven.ipynb) **Simulación Trace-Driven**
 - [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jasanchev/SimulationEIA/blob/main/emp_continua.ipynb) **Distribución Empírica Continua**
