@@ -10,6 +10,7 @@ Este repositorio contiene los siguientes notebooks:
 3. **Distribución Empírica Discreta** (`emp_discreta.ipynb`)
 4. **Ajuste de Distribuciones** (`analytical.ipynb`)
 5. **Ejemplo de Aplición** (`benson.ipynb`)
+6. **Ejercicio 1** (`Ejercicio 1.ipynb`)
 
 ## 🚀 Abrir en Google Colab
 Para abrir estos notebooks directamente en Colab, haz clic en los siguientes enlaces:
@@ -18,6 +19,7 @@ Para abrir estos notebooks directamente en Colab, haz clic en los siguientes enl
 - [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jasanchev/SimulationEIA/blob/main/emp_discreta.ipynb) **Distribución Empírica Discreta**
 - [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jasanchev/SimulationEIA/blob/main/analytical.ipynb) **Ajuste de Distribuciones**
 - [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jasanchev/SimulationEIA/blob/main/benson.ipynb) **Ejemplo de Aplicación**
+- [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jasanchev/SimulationEIA/blob/main/Ejercicio 1.ipynb) **Ejercicio 1**
 
 
 ## 📞 Contacto
