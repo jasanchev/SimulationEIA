@@ -12,6 +12,7 @@ Este repositorio contiene los siguientes notebooks:
 5. **Ejemplo de Aplición** (`benson.ipynb`)
 6. **Ejercicio 1** (`Ejercicio 1.ipynb`)
 7. **Solución Ejercicio 1** (`sln_ejercicio1`)
+8. **Solución Vinton Auto Insurance** (`vinton.ipynb`)
 
 ## 🚀 Abrir en Google Colab
 Para abrir estos notebooks directamente en Colab, haz clic en los siguientes enlaces:
