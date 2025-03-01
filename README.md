@@ -22,6 +22,7 @@ Para abrir estos notebooks directamente en Colab, haz clic en los siguientes enl
 - [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jasanchev/SimulationEIA/blob/main/benson.ipynb) **Ejemplo de Aplicación**
 - [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jasanchev/SimulationEIA/blob/main/Ejercicio_1.ipynb) **Ejercicio 1**
 - [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jasanchev/SimulationEIA/blob/main/sln_ejercicio1.ipynb) **Solución Ejercicio 1**
+-  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jasanchev/SimulationEIA/blob/main/vinton.ipynb) **Solución Vinton Auto Insurance**
 
 
 ## 📞 Contacto
